@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-image: url(donate.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+  }
+  .main-section {
+    height: 70vh;
+    width: 68%;
+    margin-left: auto;
+    margin-right: 5px;
+    padding-top: 60px;
+    padding-left: 220px;
+  }
+  
+  .main-text {
+    font-size: 5rem;
+    color:lightskyblue;
+    font-family:inherit;
+  }
+  
+  .secondary-text {
+    font-size: 2.8rem;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: 65px;
+    color:palevioletred;
+    font-style: italic;
+    font-family: cursive;
+  }
